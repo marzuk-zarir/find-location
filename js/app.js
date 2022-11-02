@@ -1,7 +1,6 @@
 const env = {
-    MAP_ACCESS_TOKEN: '' /* your access token from https://mapbox.com */,
-    CITY_ACCESS_TOKEN:
-        '' /* your access token from https://openweathermap.org */,
+    MAP_ACCESS_TOKEN: 'pk.eyJ1IjoibWFyenVrLXphcmlyIiwiYSI6ImNrcHdsOGF2ajF3dDAycW11ZnplM2lnNXUifQ.EAiefoOGliuh1q0I1kAjaw' /* your access token from https://mapbox.com */,
+    CITY_ACCESS_TOKEN: '2af02de7afba3096c217e360c9d3610f', /* your access token from https://openweathermap.org */
 };
 
 const CITY_URL = 'http://api.openweathermap.org/geo/1.0/direct';
